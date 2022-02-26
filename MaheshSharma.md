@@ -7,8 +7,7 @@
 <!-- 
 I'm Mahesh Sharma 👨‍💻 & I'm a passionate for the Data analysis, and Chemistry . I'm from India, living in Hyderabad. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 -->
-
-I'm an Actuarial Researcher 👨‍💻. I'm from India, living in Puttaparthi and currently working at SSSIHL. You can find me on:
+I'm Mahesh Sharma 👨‍💻 & I'm a passionate for the Data analysis, and Chemistry . I'm from India, living in Hyderabad. You can find me on:
 
 <p align='center'>
     <a href="https://www.linkedin.com/in/maheshsharmapulipaka/">
@@ -17,10 +16,9 @@ I'm an Actuarial Researcher 👨‍💻. I'm from India, living in Puttaparthi a
 
 I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented individual and a teammate👬 with decent moral Values 🙇‍♀️ along with a high-energy level🤹‍♀️, honed communication skills👐, strong organizational skills👮‍♀️, and meticulous attention🕵️‍♀️ to detail and also a service oriented person.
 
-<!-- <p align='justify'>
+<p align='justify'>
 I have started my career with Chemistry, mixing the chemicals and trying to understand the science. But as I joined for the research assistant, I find "Data" is more interesting than the science. Later, I started looking various options around the world and found "Data Science" course helps me to understand the importance of data, and creating models using the AI to find the solutions.
- 
+ <!<p>
     <br/>
     <br/>
-Identifying improved approaches and enhanced solutions to business challenges are activities that drive and inspire me. Exploration, pursuit and motivation are my frameworks for success. I believe that fresh perspectives and trying new techniques help businesses evolve and grow.
-</p> -->
+<!</p>
